@@ -64,5 +64,24 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-Volunteer Matrix is a company surfaced via the API Evangelist harvest backlog (source: new-submission) and added to the network as a stub for full-pipeline profiling.
-- https://volunteermatrix.com/
+Volunteer Matrix is a volunteer management platform built from over 20 years of experience helping nonprofits run reliable, repeatable volunteer programs. The SaaS solution streamlines volunteer recruitment, scheduling, communication, and reporting, enabling organizations to efficiently coordinate community involvement and maximize impact.
+
+**Areas:** Volunteer Management · SaaS · Nonprofit · Community · Platform
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://volunteermatrix.com/)
+- [Documentation](https://volunteermatrix.com/api)
+- [Getting started](https://volunteermatrix.com/about)
+- [Pricing](https://volunteermatrix.com/pricing)
+- [Support](https://volunteermatrix.com/support)
+- [Security](https://volunteermatrix.com/security)
+- [Privacy policy](https://volunteermatrix.com/privacy)
+
+**APIs profiled:** 1
+
+## API Evangelist rating
+
+Not yet rated. See [apis.io/providers/volunteer-matrix/](https://apis.io/providers/volunteer-matrix/).
